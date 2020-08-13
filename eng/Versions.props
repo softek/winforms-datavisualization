@@ -8,9 +8,9 @@
   </PropertyGroup>
   <!-- CoreFX dependencies -->
   <PropertyGroup>
-    <MicrosoftNETCorePlatformsPackageVersion>3.0.0-preview4.19210.9</MicrosoftNETCorePlatformsPackageVersion>
-    <SystemDrawingCommonPackageVersion>4.6.0-preview4.19210.9</SystemDrawingCommonPackageVersion>
-    <SystemWindowsExtensionsPackageVersion>4.6.0-preview4.19210.9</SystemWindowsExtensionsPackageVersion>
+    <MicrosoftNETCorePlatformsPackageVersion>3.0.0</MicrosoftNETCorePlatformsPackageVersion>
+    <SystemDrawingCommonPackageVersion>4.6.0</SystemDrawingCommonPackageVersion>
+    <SystemWindowsExtensionsPackageVersion>4.6.0</SystemWindowsExtensionsPackageVersion>
   </PropertyGroup>
   <PropertyGroup>
     <SystemDrawingPrimitivesPackageVersion>4.3.0</SystemDrawingPrimitivesPackageVersion>
